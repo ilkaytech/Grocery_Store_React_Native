@@ -2,7 +2,7 @@ import React from "react";
 import { ScrollView } from "react-native";
 import HeaderMain from "../../component/HeaderMain";
 import BannerCarousel from "../../component/BannerCarousel";
-import CategoryItem from "../../component/CategoryItem";
+import MainCategories from "../../component/MainCategories";
 
 const index = () => {
   return (
@@ -12,7 +12,7 @@ const index = () => {
     >
       <HeaderMain />
       <BannerCarousel />
-      <CategoryItem />
+      <MainCategories />
     </ScrollView>
   );
 };

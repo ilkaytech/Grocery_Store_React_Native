@@ -22,15 +22,15 @@ const index = () => {
               marginRight: 2,
             }}
           >
-            Dedepaşa Caddesi No 3...
+            Kemalpaşa Blv. Ataşehir Mah...
           </Text>
-          <Entypo name="chevron-right" size={22} color="#16A349" />
+          <Entypo name="chevron-right" size={22} color="#58983B" />
         </View>
         <View style={styles.headerTwo}>
-          <Text style={{ fontSize: 10, fontWeight: "bold", color: "#16A349" }}>
+          <Text style={{ fontSize: 10, fontWeight: "bold", color: "#FFF" }}>
             TVS
           </Text>
-          <Text style={{ fontSize: 20, fontWeight: "bold", color: "#16A349" }}>
+          <Text style={{ fontSize: 20, fontWeight: "bold", color: "#FFF" }}>
             13<Text style={{ fontSize: 16 }}>dk</Text>
           </Text>
         </View>
